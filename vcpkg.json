@@ -1,0 +1,8 @@
+{
+    "name": "vutcommander",
+    "version": "0.1",
+    "builtin-baseline": "default",
+    "dependencies": [
+        "ncurses"
+    ]
+}
